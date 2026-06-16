@@ -102,7 +102,7 @@ class GolfScoreCalculator {
 /**
  * メインクラス
  */
-public class Mondai2 {
+public class Mondai1 {
 
     public static void main(String[] args) {
 
